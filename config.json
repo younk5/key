@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "clientId": "1320235949413634049",
+    "guildId": "1320213603982508053",
+    "mongoUri": "",
+    "embedColors": {
+        "primary": "#2F3136",
+        "success": "#43B581",
+        "error": "#F04747",
+        "warning": "#FAA61A",
+        "info": "#7289DA"
+    }
+}
